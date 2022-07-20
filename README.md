@@ -1,3 +1,5 @@
+## This is first stage of this project. Further updates will be done timely.
+
 # twitter_sentiment_analysis
 Twitter-Sentiment-Analysis
 
